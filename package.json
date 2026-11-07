@@ -1,0 +1,12 @@
+{
+  "name": "colossus",
+  "version": "1.0.0",
+  "description": "COLOSSUS: an anime short rendered entirely in code with three.js",
+  "private": true,
+  "type": "module",
+  "devDependencies": {
+    "puppeteer-core": "23.11.1",
+    "three": "0.170.0",
+    "three-mesh-bvh": "0.8.3"
+  }
+}
